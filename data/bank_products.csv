@@ -1,0 +1,5 @@
+product_id,product_name,product_type,interest_rate,minimum_investment,maximum_investment,coupon_payment,subscription_period,eligibility
+1,maib classic,Term Deposit,Fixed,1000 MDL,1000000 MDL,Monthly,90/180/365/540 days,Residents
+2,maib classic+,Term Deposit,Fixed,1000 MDL,1000000 MDL,Monthly,1095 days,Residents
+3,maib multiopțional+,Term Deposit,Fixed,3000 MDL,1000000 MDL,Monthly,1095 days,Residents
+4,maib capital,Term Deposit,Fixed,1000 MDL,1000000 MDL,Monthly,365 days,Residents

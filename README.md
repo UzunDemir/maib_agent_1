@@ -29,3 +29,19 @@
 python -m venv venv
 source venv/bin/activate   # для Linux/macOS
 venv\Scripts\activate      # для Windows
+```
+
+| **Категория**                       | **Проект**            | **Описание**                                                                 | **Ссылка**                                             |
+|-------------------------------------|-----------------------|-----------------------------------------------------------------------------|-------------------------------------------------------|
+| Диагностика и медицинские изображения | Zebra Medical Vision  | ИИ для анализа медицинских изображений.                                       | [Zebra Medical](https://www.zebra-med.com/)            |
+| Диагностика и медицинские изображения | Aidoc                 | ИИ для анализа КТ-изображений.                                                | [Aidoc](https://www.aidoc.com/)                        |
+| Телемедицина и консультации          | Babylon Health         | ИИ-бот для первичной диагностики и консультаций.                              | [Babylon Health](https://www.babylonhealth.com/)       |
+| Телемедицина и консультации          | Doctor on Demand       | Онлайн-консультации с врачами через видеочат.                                | [Doctor on Demand](https://www.doctorondemand.com/)    |
+| Персонализированная медицина         | Tempus                 | ИИ для персонализированного подхода в онкологии.                              | [Tempus](https://www.tempus.com/)                     |
+| Управление пациентами                | Omada Health           | ИИ для мониторинга хронических заболеваний.                                  | [Omada Health](https://www.omadahealth.com/)           |
+| Носимые технологии                   | Apple Health           | Носимые устройства для мониторинга здоровья.                                 | [Apple Health](https://www.apple.com/healthcare/)      |
+| Носимые технологии                   | Fitbit                 | Устройства для отслеживания физической активности.                           | [Fitbit](https://www.fitbit.com/)                      |
+| Интеллектуальные системы             | Qventus                | ИИ-система для автоматизации операций в больницах.                           | [Qventus](https://www.qventus.com/)                    |
+| Генетика                             | Deep Genomics          | ИИ для разработки лекарств на основе генетических данных.                   | [Deep Genomics](https://www.deepgenomics.com/)         |
+| Психическое здоровье                 | Woebot Health          | Чат-бот для психотерапевтической помощи.                                      | [Woebot](https://woebothealth.com/)                    |
+| Роботизированная хирургия            | Intuitive Surgical     | Робот da Vinci с ИИ для хирургии.                                            | [Intuitive Surgical](https://www.intuitive.com/en-us/) |
